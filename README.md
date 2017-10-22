@@ -5,5 +5,7 @@
  + HTML
  + CSS
  + Foundation framework
- + Javascript
- 
+ + Express
+ + Nodejs
+ + mySQL
+ + deploy on: Heroku
