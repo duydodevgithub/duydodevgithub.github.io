@@ -1,5 +1,5 @@
 
-// greeting base on time 
+// greeting based on time 
 var d = new Date();
 d = d.getHours();
 if(d > 18) {
