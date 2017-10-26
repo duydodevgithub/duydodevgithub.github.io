@@ -6,6 +6,6 @@
  + HTML
  + CSS
  + Javascript
- + Bootstrap framework
+ + Bootstrap framework - template
 
 <!-- Model - stores an application data; View - renders Model for a client; and Controller - updates Model by reacting on client's actions. -->
