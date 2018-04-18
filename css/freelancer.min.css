@@ -3,6 +3,11 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */body{font-family:Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;overflow-x:hidden}
+ .container_img {
+     /* background-image: url("../img/gallery/logo_fullstack.png"); */
+ }
+
+
  p{font-size:20px}
  p.small{font-size:16px}
  a,a.active,a:active,a:focus,a:hover{color:#112039;outline:0}
